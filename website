@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JJ’s Junk Removal | Junk Out, Joy In</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #111;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav {
+      background-color: #222;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    main {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+      background-color: white;
+    }
+    h1, h2 {
+      color: #c0392b;
+    }
+    footer {
+      background-color: #111;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>JJ’s Junk Removal</h1>
+    <p><strong>Junk Out, Joy In.</strong></p>
+    <p>📞 (916) 643‑5809 | 📧 Jjsjunkremoval93@gmail.com</p>
+  </header>
+
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <main>
+    <section id="hero">
+      <h2>Welcome to JJ’s Junk Removal</h2>
+      <p>Fast, friendly, and affordable junk removal proudly serving El Dorado County, Folsom, and surrounding areas. We make junk disappear—so you can breathe easy again.</p>
+    </section>
+
+    <section id="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>🛋️ Furniture & Appliance Removal</li>
+        <li>🏡 Garage & Estate Cleanouts</li>
+        <li>🌿 Yard Waste & Green Debris</li>
+        <li>🧱 Construction Debris Removal</li>
+        <li>🏢 Property Clear-Outs (Residential & Commercial)</li>
+        <li>🎁 Donation Pickup & Delivery</li>
+      </ul>
+      <p><strong>Don’t see it listed?</strong> Call us — if it’s not hazardous, we’ll probably take it.</p>
+    </section>
+
+    <section id="about">
+      <h2>About JJ’s Junk Removal</h2>
+      <p>We’re not some big corporation. We’re your neighbors. JJ’s Junk Removal is a local, family-driven service committed to honest work and respectful service.</p>
+      <p>Whether you’re moving out, clearing space, or cleaning up a mess — we show up on time, work fast, and leave your space spotless. It’s that simple.</p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>📞 Phone: <a href="tel:+19166435809">(916) 643‑5809</a></p>
+      <p>📧 Email: <a href="mailto:Jjsjunkremoval93@gmail.com">Jjsjunkremoval93@gmail.com</a></p>
+      <p>Hours: Monday – Saturday: 8 AM – 6 PM | Sunday: By Appointment Only</p>
+      <p>Service Area: El Dorado County, Folsom, Cameron Park, Placerville & surrounding areas.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 JJ’s Junk Removal. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
