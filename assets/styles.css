@@ -1,0 +1,52 @@
+/* Business name */
+.biz-name {
+  font-size: 2.8em;
+  font-weight: 900;
+  color: #ff3300;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 5px;
+}
+
+/* Slogan */
+.slogan {
+  font-size: 1.4em;
+  font-style: italic;
+  font-weight: bold;
+  color: #333;
+  margin-top: -5px;
+  margin-bottom: 15px;
+}
+
+/* Buttons */
+.btn {
+  background: #ff6600;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.btn:hover {
+  background: #cc5200;
+}
+.btn.secondary {
+  background: #555;
+}
+.btn.secondary:hover {
+  background: #333;
+}
+
+/* Edit button */
+.edit-btn {
+  background: #ff6600;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+.edit-btn:hover {
+  background: #cc5200;
+}
