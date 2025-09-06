@@ -6,6 +6,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   margin-bottom: 5px;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.2); /* subtle glow */
 }
 
 /* Slogan */
@@ -16,25 +17,9 @@
   color: #333;
   margin-top: -5px;
   margin-bottom: 15px;
-}
-
-/* Buttons */
-.btn {
-  background: #ff6600;
-  color: white;
-  padding: 8px 14px;
-  border-radius: 6px;
-  text-decoration: none;
-  font-weight: bold;
-}
-.btn:hover {
-  background: #cc5200;
-}
-.btn.secondary {
-  background: #555;
-}
-.btn.secondary:hover {
-  background: #333;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.15);
 }
 
 /* Edit button */
